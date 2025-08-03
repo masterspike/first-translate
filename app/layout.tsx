@@ -12,12 +12,14 @@ export const metadata: Metadata = {
   creator: 'Aik',
   publisher: 'FirstTranslate',
   robots: 'index, follow',
+  metadataBase: new URL('https://www.leemreize.com'),
   openGraph: {
     title: 'FirstTranslate - Nederlands ↔ Japans',
     description: 'Offline vertaalapp voor Nederlands en Japans',
     type: 'website',
     locale: 'nl_NL',
-    siteName: 'FirstTranslate'
+    siteName: 'FirstTranslate',
+    url: 'https://www.leemreize.com'
   },
   twitter: {
     card: 'summary_large_image',

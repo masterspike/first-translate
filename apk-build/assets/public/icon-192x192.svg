@@ -1,0 +1,19 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="24" fill="#3b82f6"/>
+  
+  <!-- Dutch flag colors -->
+  <rect x="32" y="32" width="48" height="16" fill="#AE1C28"/>
+  <rect x="32" y="48" width="48" height="16" fill="#FFFFFF"/>
+  <rect x="32" y="64" width="48" height="16" fill="#21468B"/>
+  
+  <!-- Japanese flag -->
+  <rect x="112" y="32" width="48" height="48" fill="#FFFFFF"/>
+  <circle cx="136" cy="56" r="12" fill="#BC002D"/>
+  
+  <!-- Translation arrows -->
+  <path d="M88 80 L104 80 M104 80 L100 76 M104 80 L100 84" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 112 L104 112 M104 112 L100 108 M104 112 L100 116" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text -->
+  <text x="96" y="140" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16" font-weight="bold">NL ↔ JP</text>
+</svg> 
